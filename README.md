@@ -25,7 +25,7 @@ Now Our first project is Cookfish
 🚀 COOKPHISH - Advanced Instagram Hacking Framework
 
 🔍 About CookPhish
-CookPhish is a modern and powerful phishing simulation framework developed by Technical White Hat (TWH). It creates highly realistic fake login pages (like Instagram), logs victim data (IP, device, time), simulates 2FA, and runs in a stunning terminal interface.
+CookPhish is a modern and powerful phishing simulation framework developed by AK1WaxSquire. It creates highly realistic fake login pages (like Instagram), logs victim data (IP, device, time), simulates 2FA, and runs in a stunning terminal interface.
 
 ⚙️ Features
 
