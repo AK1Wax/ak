@@ -97,6 +97,6 @@ pip install -r requirements.txt
     visitor badge
 
 🔍 About CookPhish
-CookPhish is a modern and powerful phishing simulation framework developed by AK1WaxSquire . It creates highly realistic fake login pages (like Instagram), logs victim data (IP, device, time), simulates 2FA, and runs in a stunning terminal interface.
+CookPhish is a modern and powerful phishing simulation framework developed by AK1WaxSquire and Fam🌪️🤍. It creates highly realistic fake login pages (like Instagram), logs victim data (IP, device, time), simulates 2FA, and runs in a stunning terminal interface.
 
 ⚠️ Made strictly for ethical hacking training, CTFs, and cybersecurity education. Do not use illegally.
