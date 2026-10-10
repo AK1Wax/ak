@@ -69,7 +69,8 @@ pkg update && pkg upgrade -y
 pkg update && pkg upgrade -y
 
 pkg install git
-gitclone https://github.com/technicalwhitehat-yt/CookPhish.git
+gitclone 
+https://github.com/AK1Wax/ak.git
 
 cd CookPhish
 
@@ -84,7 +85,7 @@ sudo apt-get update && upgrade -y
 apt-get install git
 
 git clone 
-https://github.com/technicalwhitehat-yt/CookPhish.git
+https://github.com/AK1Wax/ak.git
 cd CookPhish
 
 sudo bash CookPhish
