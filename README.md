@@ -28,13 +28,20 @@ Now Our first project is Cookfish
 CookPhish is a modern and powerful phishing simulation framework developed by Technical White Hat (TWH). It creates highly realistic fake login pages (like Instagram), logs victim data (IP, device, time), simulates 2FA, and runs in a stunning terminal interface.
 
 ⚙️ Features
+
 🎨 Colorful dynamic gradient banner
+
 📸 Realistic Instagram-style phishing simulation
+
 🌐 Logs IP, user-agent, and timestamps
+
 🔐 Simulates 2FA (TOTP / WhatsApp / SMS)
+
 🔁 GitHub-based auto-update system
 🚀 Fast Flask-based setup (no Apache needed)
+
 ☁️ Cloudflared and Tunnelmole tunneling support
+
 🧾 Logs saved in output/ directory
 
 🧪 Tested Platforms
@@ -43,22 +50,29 @@ Kali Linux
 Debian-based Linux distros
 
 🔥 Why Choose CookPhish?
-Feature	Regular Tools	CookPhish
-Dynamic Gradient Banner	❌	✅ Yes
-2FA Clone Pages	❌	✅ Yes
-Tunneling Support	❌	✅ Cloudflared/Tunnelmole
-Auto Update	❌	✅ Git-based
-Android/Linux Support	Limited	✅ Termux
+
+| Feature | Regular Tools | CookPhish |
+| :--- | :---: | :---: |
+| **Dynamic Gradient Banner** | ❌ | ✅ Yes |
+| **2FA Clone Pages** | ❌ | ✅ Yes |
+| **Tunneling Support** | ❌ | ✅ Cloudflared / Tunnelmole |
+| **Auto Update** | ❌ | ✅ Git-based |
+| **Android / Linux Support** | Limited | ✅ Termux |
 
 
 🛠️ Installation
 
 📱 Termux (Android)
+
 pkg update && pkg upgrade -y
+
 pkg update && pkg upgrade -y
+
 pkg install git
-git clone https://github.com/technicalwhitehat-yt/CookPhish.git
+gitclone https://github.com/technicalwhitehat-yt/CookPhish.git
+
 cd CookPhish
+
 bash CookPhish
 
 🛠️ Installation
@@ -66,91 +80,23 @@ bash CookPhish
 💻 Kali Linux / Debian-based Linux
 
 sudo apt-get update && upgrade -y
+
 apt-get install git
-git clone https://github.com/technicalwhitehat-yt/CookPhish.git
+
+git clone 
+https://github.com/technicalwhitehat-yt/CookPhish.git
 cd CookPhish
+
 sudo bash CookPhish
 
 📦 Requirements
+
 pip install -r requirements.txt
 
-ADME
 🚀 COOKPHISH - Advanced Instagram Hacking Framework
     visitor badge
-
-CookPhish Screenshot
 
 🔍 About CookPhish
 CookPhish is a modern and powerful phishing simulation framework developed by Technical White Hat (TWH). It creates highly realistic fake login pages (like Instagram), logs victim data (IP, device, time), simulates 2FA, and runs in a stunning terminal interface.
 
 ⚠️ Made strictly for ethical hacking training, CTFs, and cybersecurity education. Do not use illegally.
-
-⚙️ Features
-🎨 Colorful dynamic gradient banner
-📸 Realistic Instagram-style phishing simulation
-🌐 Logs IP, user-agent, and timestamps
-🔐 Simulates 2FA (TOTP / WhatsApp / SMS)
-🔁 GitHub-based auto-update system
-🚀 Fast Flask-based setup (no Apache needed)
-☁️ Cloudflared and Tunnelmole tunneling support
-🧾 Logs saved in output/ directory
-🧪 Tested Platforms
-Termux on Android
-Kali Linux
-Debian-based Linux distros
-🔥 Why Choose CookPhish?
-Feature	Regular Tools	CookPhish
-Dynamic Gradient Banner	❌	✅ Yes
-2FA Clone Pages	❌	✅ Yes
-Tunneling Support	❌	✅ Cloudflared/Tunnelmole
-Auto Update	❌	✅ Git-based
-Android/Linux Support	Limited	✅ Termux + Linux
-🛠️ Installation
-How to setup cookphish in termux full partical video (Android) 📱
-CookPhish Termux Setup
-
-📱 Termux (Android)
-pkg update && pkg upgrade -y
-pkg update && pkg upgrade -y
-pkg install git
-git clone https://github.com/technicalwhitehat-yt/CookPhish.git
-cd CookPhish
-bash CookPhish
-Termux apk
-👉 If you don’t have Termux, you can click on “Click to Download” here to download Termux’s APK. The latest version of Termux is v0.118.3. 📥 Click to Download Termux.apk
-
-🛠️ Installation
-How to setup & use cookphish on kali Linux full partical video (Computer) 💻
-CookPhish kali linux Setup
-
-💻 Kali Linux / Debian-based Linux
-sudo apt-get update && upgrade -y
-apt-get install git
-git clone https://github.com/technicalwhitehat-yt/CookPhish.git
-cd CookPhish
-sudo bash CookPhish
-🔁 Note: You must clone the repo via Git to enable auto-update functionality.
-
-📦 Requirements
-pip install -r requirements.txt
-⚠️ IMPORTANT: If you start facing any errors while running Cookphish, then run this command. This will solve the problem. If it doesn’t, contact us. 📩
-
-🚀 Usage
-Start the tool using ./CookPhish.
-
-Colorful UI will load, followed by GitHub update check.
-
-Local phishing server starts on port 8080.
-
-Use cloudflared or tunnelmole to expose online.
-
-Logs:
-
-IP/User Agent → output/ip_agent.log
-Correct credentials → output/correct_pass_user.log
-Wrong credentials → output/wrong_pass.log
-
-
-⚠️ Legal Disclaimer
-This tool is created strictly for educational and ethical testing purposes. Using CookPhish on unauthorized targets is illegal. The author is not responsible for any misuse or damage caused by this tool. Always get proper authorization before testing.
-
