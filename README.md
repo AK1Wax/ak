@@ -7,7 +7,7 @@ Typing SVG
 
 🧠 I’m an Expert in Computer Science, Mobile Technology, and Ethical and Non Ethical Hacking
 
-🔥 Founder of Dark Web Team "Team Unfair Godz🤍🌪️" — A powerful team where most powerfull darkweb illegal black Hat hacker
+🔥 Founder of Dark Web Team "Team Unfair Godz🤍🌪️" — A powerful team where most powerfull darkweb illegal black Hat hacker worked with us
 
 🔐 Worked on advanced AI projects, custom tools, and real-world hacking simulations
 
