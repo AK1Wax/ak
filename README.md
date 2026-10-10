@@ -16,7 +16,6 @@ Typing SVG
 Bash, Java, HTML, CSS
 Linux, Kali Linux, Android
 Website Hacking & Security Tools
-🧪 Pro at:
 
 👥 I work with an experienced team — We handle everything from tool development to AI-based security systems
 
